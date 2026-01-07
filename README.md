@@ -1,3 +1,5 @@
+![Tools for Builders Banner](banner.png)
+
 # 🛠️ Tools for Builders
 
 > A curated list of tools, resources, libraries, and frameworks for technology professionals.

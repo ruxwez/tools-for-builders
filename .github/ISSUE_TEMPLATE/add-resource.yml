@@ -22,34 +22,21 @@ body:
     validations:
       required: true
   - type: textarea
-    id: resource_description
+    id: resource_details
     attributes:
-      label: Description
-      placeholder: "What does this tool do? Why is it useful for builders?"
+      label: Resource Details
+      description: "Please fill in the following sections."
+      value: |
+        ### Description
+        (Explain what this tool does and why it is useful for builders)
+
+        ### Category
+        (Indicate which existing section it should go into)
+
+        ### Suggestions
+        (If you think a new category is needed or have other comments, write them here)
     validations:
       required: true
-  - type: dropdown
-    id: category
-    attributes:
-      label: Suggested Category
-      description: "Select an existing category or 'New Category' if it doesn't fit anywhere."
-      options:
-        - "Programming Languages: Frameworks"
-        - "Programming Languages: Libraries & Tools"
-        - "DevOps & Cloud"
-        - "Self-Hosted & Open Source"
-        - "SaaS with Free Tiers"
-        - "Productivity & Tools"
-        - "Career & Growth"
-        - "New Category (Please specify below)"
-    validations:
-      required: true
-  - type: textarea
-    id: new_category_proposal
-    attributes:
-      label: New Category Proposal
-      description: "If you selected 'New Category', please explain why a new category is needed and what it should be named."
-      placeholder: "I think we should add a category for 'Security Tools' because..."
   - type: checkboxes
     id: checklist
     attributes:

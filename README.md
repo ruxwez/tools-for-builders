@@ -43,4 +43,4 @@ Contributions are welcome! If you know a tool that should be here, please follow
 
 ## 📄 License
 
-This project is licensed under the GNUv3 License.
+This project is licensed under the GPL 3.0 License.

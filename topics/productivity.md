@@ -27,6 +27,7 @@
 - [Oh My Zsh](https://ohmyz.sh/) - A delightful, open source, community-driven framework for managing your Zsh configuration. (🐧 Open Source)
 - [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell. (🐧 Open Source)
 - [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer. (🐧 Open Source)
+- [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator for macOS and Linux that uses platform-native UI and GPU acceleration. (🐧 Open Source)
 
 ## 🔧 Utilities & Launchers
 

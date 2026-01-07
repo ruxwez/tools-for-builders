@@ -33,3 +33,13 @@
 - [Raycast](https://www.raycast.com/) - Blazingly fast, extendable launcher for macOS. (🆓 Free | 💸 Paid AI)
 - [PowerToys](https://github.com/microsoft/PowerToys) - System utilities to tune and streamline the Windows experience. (🐧 Open Source)
 - [Keka](https://www.keka.io/) - The macOS file archiver. (🆓 Free | 💸 App Store)
+
+## 🛠️ Database Management Tools
+
+- [Navicat](https://www.navicat.com/en/products/navicat-premium-lite) - Database manager (SQL and NoSQL) with a completely free version for commercial use, but with limitations. (🌗 Freemium | 💸 Paid)
+- [DBeaver](https://dbeaver.io/) - Universal database manager and SQL client, made with Java. (🆓 Free | 💸 Paid)
+- [HeidiSQL](https://www.heidisql.com/) - A powerful and easy-to-use tool for managing MySQL, MariaDB, and PostgreSQL databases. (🆓 Free)
+- [BeeKeeper](https://www.beekeeperstudio.io/) - A powerful and easy-to-use tool for managing MySQL, MariaDB, and PostgreSQL databases. (🌗 Freemium | 💸 Paid)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/) - A visual tool for managing and developing MySQL databases. (🆓 Free | 💸 Paid)
+- [pgAdmin](https://www.pgadmin.org/) - A powerful and easy-to-use tool for managing PostgreSQL databases. (🆓 Free | 💸 Paid)
+- [MongoDB Compass](https://www.mongodb.com/products/tools/compass) - A powerful and easy-to-use tool for managing MongoDB databases. (🆓 Free | 💸 Paid)

@@ -20,6 +20,15 @@
 
 - [Gin](https://gin-gonic.com/) - HTTP web framework written in Go (Golang). It features a Martini-like API. (🐧 Open Source)
 - [Echo](https://echo.labstack.com/) - High performance, extensible, minimalist Go web framework. (🐧 Open Source)
+- [Queue](https://github.com/adrianbrad/queue) - Multiple thread-safe, generic queue implementations for Go. (🐧 Open Source)
+- [Bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (🐧 Open Source)
+- [GORM](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly. (🐧 Open Source)
+- [BUN](https://bun.uptrace.dev/) - SQL-first Golang ORM. Successor of go-pg. (🐧 Open Source)
+- [Godis](https://github.com/hdt3213/godis) - A Golang implemented high-performance Redis server and cluster. (🐧 Open Source)
+- [Faker](https://github.com/pioz/faker) - Random fake data and struct generator for Go. (🐧 Open Source)
+- [Axios4go](https://github.com/rezmoss/axios4go) - A Go HTTP client library inspired by Axios, providing a simple and intuitive API for making HTTP requests. (🐧 Open Source)
+- [casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC. (🐧 Open Source)
+
 
 ## 🦀 Rust
 

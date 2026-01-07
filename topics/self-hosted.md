@@ -29,3 +29,15 @@
 
 - [Bitwarden](https://bitwarden.com/) - Secure and free password manager for all of your devices. (🐧 Open Source | 🏠 Self-Hosted)
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, lighter for self-hosting. (🐧 Open Source | 🏠 Self-Hosted)
+
+## 💁 Customer Support
+
+- [Zammad](https://zammad.com/) - Open source helpdesk and customer support system with a modern UI. (🐧 Open Source | 🏠 Self-Hosted)
+
+## 🔐 User Authentication Management
+
+- [Authelia](https://www.authelia.com/) - Lightweight authentication portal that provides multi-factor authentication and single sign-on (SSO). (🐧 Open Source | 🏠 Self-Hosted)
+- [Keycloak](https://www.keycloak.org/) - Robust identity and access management for modern applications with support for SSO and social login. (🐧 Open Source | 🏠 Self-Hosted)
+- [Ory](https://www.ory.com/) - Modular, API-first identity infrastructure designed for cloud-native applications and high scalability. (🐧 Open Source | 🏠 Self-Hosted)
+- [Zitadel](https://zitadel.com/) - Multi-tenant identity platform optimized for B2B and SaaS, featuring strong API-first extensibility. (🐧 Open Source | 🏠 Self-Hosted)
+- [Authentik](https://goauthentik.io/) - Highly flexible authentication provider with support for diverse protocols and built-in automation. (🐧 Open Source | 🏠 Self-Hosted)

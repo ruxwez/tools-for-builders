@@ -33,6 +33,7 @@
 - [Serde](https://serde.rs/) - A framework for serializing and deserializing Rust data structures efficiently and generically. (🐧 Open Source)
 - [Rayon](https://github.com/rayon-rs/rayon) - A data parallelism library for Rust. (🐧 Open Source)
 - [Diesel](https://diesel.rs/) - A safe, extensible ORM and Query Builder for Rust. (🐧 Open Source)
+- [Anyhow](https://github.com/dtolnay/anyhow) - A convenient error handling library for Rust. (🐧 Open Source)
 
 ## ☕ Java / Kotlin
 

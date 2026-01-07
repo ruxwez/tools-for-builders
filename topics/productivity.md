@@ -16,6 +16,11 @@
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams. (🐧 Open Source | 🆓 Free)
 - [Canva](https://www.canva.com/) - Free-to-use online graphic design tool. (🌗 Freemium | ☁️ SaaS)
 
+## 📷 Picture & Video
+
+- [Affinity](https://www.affinity.studio/) - Professional creative software suite for graphic design, photo editing, and desktop publishing. (🆓 Free | 💸 Paid AI)
+- [Davinci Resolve](https://www.blackmagicdesign.com/es/products/davinciresolve) - Professional video editing, color grading, visual effects, and audio post-production software. (🆓 Free | 💸 Paid AI)
+
 ## ⚡ Terminal & Command Line
 
 - [Warp](https://www.warp.dev/) - A blazingly fast, modern Rust-based terminal reimagined with AI. (🌗 Freemium | ☁️ SaaS)

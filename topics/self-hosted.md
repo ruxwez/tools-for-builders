@@ -41,3 +41,10 @@
 - [Ory](https://www.ory.com/) - Modular, API-first identity infrastructure designed for cloud-native applications and high scalability. (🐧 Open Source | 🏠 Self-Hosted)
 - [Zitadel](https://zitadel.com/) - Multi-tenant identity platform optimized for B2B and SaaS, featuring strong API-first extensibility. (🐧 Open Source | 🏠 Self-Hosted)
 - [Authentik](https://goauthentik.io/) - Highly flexible authentication provider with support for diverse protocols and built-in automation. (🐧 Open Source | 🏠 Self-Hosted)
+
+## 🛠️ Git & Version control
+
+- [GitLab](https://about.gitlab.com/) - All-in-one DevOps platform for software development teams. (🐧 Open Source | 🏠 Self-Hosted)
+- [Gitea](https://gitea.io/) - Git with a cup of tea, a painless self-hosted Git service. (🐧 Open Source | 🏠 Self-Hosted)
+- [Gogs](https://gogs.io/) - Git service written in Go with a focus on speed and simplicity. (🐧 Open Source | 🏠 Self-Hosted)
+- [GitBucket](https://gitbucket.org/) - Git repository manager written in Scala with a focus on simplicity and ease of use. (🐧 Open Source | 🏠 Self-Hosted)

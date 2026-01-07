@@ -8,7 +8,7 @@ This repository collects the best resources for developers, system administrator
 
 The collection is organized by categories to keep things tidy.
 
-- **[Programming Languages & Ecosystems](topics/languages.md)**
+- **[Programming Languages & Ecosystems](topics/languages/README.md)**
   - Frameworks, Libraries, and Language-specific tools.
 - **[DevOps & Cloud](topics/devops.md)**
   - Docker, Kubernetes, CI/CD, Cloud providers.

@@ -1,0 +1,63 @@
+name: "➕ Add a New Resource or Category"
+description: "Suggest a new tool, library, framework, or a new category to the list."
+title: "[ADD]: <resource-name>"
+labels: ["enhancement", "resource-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a new resource! Please provide as much detail as possible.
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      placeholder: "e.g., HTMX, Bun, Supabase, Figma"
+    validations:
+      required: true
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      placeholder: "https://example.com"
+    validations:
+      required: true
+  - type: textarea
+    id: resource_description
+    attributes:
+      label: Description
+      placeholder: "What does this tool do? Why is it useful for builders?"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested Category
+      description: "Select an existing category or 'New Category' if it doesn't fit anywhere."
+      options:
+        - "Programming Languages: Frameworks"
+        - "Programming Languages: Libraries & Tools"
+        - "DevOps & Cloud"
+        - "Self-Hosted & Open Source"
+        - "SaaS with Free Tiers"
+        - "Productivity & Tools"
+        - "Career & Growth"
+        - "New Category (Please specify below)"
+    validations:
+      required: true
+  - type: textarea
+    id: new_category_proposal
+    attributes:
+      label: New Category Proposal
+      description: "If you selected 'New Category', please explain why a new category is needed and what it should be named."
+      placeholder: "I think we should add a category for 'Security Tools' because..."
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Contribution Checklist
+      options:
+        - label: "I have checked that this resource is not already in the list."
+          required: true
+        - label: "The resource is high quality and actively maintained."
+          required: true
+        - label: "I am willing to submit a Pull Request if this is approved."
+          required: false

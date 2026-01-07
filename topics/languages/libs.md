@@ -8,6 +8,7 @@
 - [Zod](https://zod.dev/) - TypeScript-first schema validation with static type inference. (🐧 Open Source)
 - [Axios](https://axios-http.com/) - Promise based HTTP client for the browser and node.js. (🐧 Open Source)
 - [Prisma](https://www.prisma.io/) - Next-generation Node.js and TypeScript ORM. (🐧 Open Source)
+- [Drizzle](https://github.com/drizzle-team/drizzle-orm) - A TypeScript-first ORM for PostgreSQL, MySQL, SQLite, and more. (🐧 Open Source)
 
 ## 🐍 Python
 
@@ -34,6 +35,7 @@
 - [Rayon](https://github.com/rayon-rs/rayon) - A data parallelism library for Rust. (🐧 Open Source)
 - [Diesel](https://diesel.rs/) - A safe, extensible ORM and Query Builder for Rust. (🐧 Open Source)
 - [Anyhow](https://github.com/dtolnay/anyhow) - A convenient error handling library for Rust. (🐧 Open Source)
+- [R2D2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust. (🐧 Open Source)
 
 ## ☕ Java / Kotlin
 

@@ -26,6 +26,7 @@ The collection is organized by categories to keep things tidy.
 *A few essential tools to get you started:*
 
 *   **[VS Code](https://code.visualstudio.com/)** - The most popular code editor.
+*   **[Zed](https://zed.dev/)** - Native code editor for macOS, Windows, and Linux.
 *   **[Docker](https://www.docker.com/)** - Containerization standard.
 *   **[Postman](https://www.postman.com/)** - API platform for building and using APIs.
 

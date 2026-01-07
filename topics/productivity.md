@@ -43,3 +43,9 @@
 - [MySQL Workbench](https://www.mysql.com/products/workbench/) - A visual tool for managing and developing MySQL databases. (🆓 Free | 💸 Paid)
 - [pgAdmin](https://www.pgadmin.org/) - A powerful and easy-to-use tool for managing PostgreSQL databases. (🆓 Free | 💸 Paid)
 - [MongoDB Compass](https://www.mongodb.com/products/tools/compass) - A powerful and easy-to-use tool for managing MongoDB databases. (🆓 Free | 💸 Paid)
+
+## ⌨️ Code Editors & IDEs
+
+- [Visual Studio Code](https://code.visualstudio.com/) - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. (🆓 Free | 🐧 Open Source)
+- [JetBrains Suite](https://www.jetbrains.com/) - A suite of integrated development environments (IDEs) for various programming languages. (🆓 Free | 💸 Paid)
+- [Zed](https://zed.dev/) - A fast, lightweight, and powerful text editor for macOS, Windows, and Linux. (🆓 Free | 🐧 Open Source)

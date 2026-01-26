@@ -48,3 +48,10 @@
 - [Gitea](https://gitea.io/) - Git with a cup of tea, a painless self-hosted Git service. (🐧 Open Source | 🏠 Self-Hosted)
 - [Gogs](https://gogs.io/) - Git service written in Go with a focus on speed and simplicity. (🐧 Open Source | 🏠 Self-Hosted)
 - [GitBucket](https://gitbucket.org/) - Git repository manager written in Scala with a focus on simplicity and ease of use. (🐧 Open Source | 🏠 Self-Hosted)
+
+## 🛒 E-Commerce Platforms
+
+- [PrestaShop](https://www.prestashop.com/) - Open source e-commerce platform for building and managing online stores. (🐧 Open Source | 🏠 Self-Hosted)
+- [Medusa](https://medusajs.com/) - Open source headless commerce platform for building customizable e-commerce experiences. (🐧 Open Source | 🏠 Self-Hosted)
+- [Vendure](https://www.vendure.io/) - Headless e-commerce framework built with TypeScript and Node.js. (🐧 Open Source | 🏠 Self-Hosted)
+- [Bagisto](https://bagisto.com/en/) - Open source e-commerce platform built on Laravel and Vue.js. (🐧 Open Source | 🏠 Self-Hosted)

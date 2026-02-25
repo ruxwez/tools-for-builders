@@ -15,6 +15,22 @@
 - [Penpot](https://penpot.app/) - The open-source design & prototyping tool. (🐧 Open Source | 🏠 Self-Hosted)
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams. (🐧 Open Source | 🆓 Free)
 - [Canva](https://www.canva.com/) - Free-to-use online graphic design tool. (🌗 Freemium | ☁️ SaaS)
+  
+## 💡 Design Inspiration
+
+- [Godly](https://godly.website/) - Curated gallery of modern and interactive web design. (🆓 Free | ☁️ SaaS)
+- [Land-book](https://land-book.com/) - Landing page gallery organized by style and industry. (🌗 Freemium | ☁️ SaaS)
+- [Awwwards](https://www.awwwards.com/) - Award-winning websites judged by professional designers. (🌗 Freemium | ☁️ SaaS)
+- [21st.dev](https://21st.dev/) - Ready-to-use modern UI components and Spline/3D elements. (🌗 Freemium | ☁️ SaaS)
+- [Lapa Ninja](https://www.lapa.ninja/) - Curated landing page inspiration with advanced filters. (🆓 Free | ☁️ SaaS)
+- [Landingfolio](https://www.landingfolio.com/) - Landing page inspiration for SaaS and startups. (🌗 Freemium | ☁️ SaaS)
+- [SaaS Landing Page](https://saaslandingpage.com/) - Examples of SaaS website designs. (🆓 Free | ☁️ SaaS)
+- [One Page Love](https://onepagelove.com/) - Showcase of one-page website designs. (🌗 Freemium | ☁️ SaaS)
+- [Site Inspire](https://www.siteinspire.com/) - Clean and minimal web design inspiration. (🆓 Free | ☁️ SaaS)
+- [Minimal Gallery](https://minimal.gallery/) - Collection of minimalist website designs. (🆓 Free | ☁️ SaaS)
+- [Dark Mode Design](https://darkmodedesign.com/) - Inspiration gallery of dark-themed websites. (🆓 Free | ☁️ SaaS)
+- [Httpster](https://httpster.net/) - Curated web design inspiration. (🆓 Free | ☁️ SaaS)
+- [Spline Community](https://spline.design/community) - Free 3D scenes and interactive design resources. (🆓 Free | ☁️ SaaS)
 
 ## 📷 Picture & Video
 

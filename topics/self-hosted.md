@@ -55,3 +55,7 @@
 - [Medusa](https://medusajs.com/) - Open source headless commerce platform for building customizable e-commerce experiences. (🐧 Open Source | 🏠 Self-Hosted)
 - [Vendure](https://www.vendure.io/) - Headless e-commerce framework built with TypeScript and Node.js. (🐧 Open Source | 🏠 Self-Hosted)
 - [Bagisto](https://bagisto.com/en/) - Open source e-commerce platform built on Laravel and Vue.js. (🐧 Open Source | 🏠 Self-Hosted)
+
+## 🗣️ Text-to-Speech (TTS)
+
+- [Chatterbox](https://github.com/resemble-ai/chatterbox) - Family of open-source, state‑of‑the‑art text‑to‑speech models by Resemble AI (Turbo, Multilingual): expressive, low‑latency TTS with paralinguistic tags and built‑in watermarking. (🐧 Open Source | 🏠 Self-Hosted)

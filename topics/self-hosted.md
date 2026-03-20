@@ -58,4 +58,4 @@
 
 ## 🗣️ Text-to-Speech (TTS)
 
-- [Chatterbox](https://github.com/resemble-ai/chatterbox) - Family of open-source, state‑of‑the‑art text‑to‑speech models by Resemble AI (Turbo, Multilingual): expressive, low‑latency TTS with paralinguistic tags and built‑in watermarking. (🐧 Open Source | 🏠 Self-Hosted)
+- [Chatterbox](https://github.com/resemble-ai/chatterbox) - Open-source state-of-the-art text-to-speech models (expressive, low-latency). (🐧 Open Source | 🏠 Self-Hosted)

@@ -12,6 +12,7 @@
 ## 🎨 Design & Prototyping
 
 - [Figma](https://www.figma.com/) - The leading collaborative interface design tool. (🌗 Freemium | ☁️ SaaS)
+- [Stitch](https://stitch.withgoogle.com/) - AI-powered UI design tool that generates designs from natural language, images, or code. Export to Figma and React. (🆓 Free | ☁️ SaaS)
 - [Penpot](https://penpot.app/) - The open-source design & prototyping tool. (🐧 Open Source | 🏠 Self-Hosted)
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams. (🐧 Open Source | 🆓 Free)
 - [Canva](https://www.canva.com/) - Free-to-use online graphic design tool. (🌗 Freemium | ☁️ SaaS)

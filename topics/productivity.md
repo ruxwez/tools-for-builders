@@ -66,3 +66,10 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. (🆓 Free | 🐧 Open Source)
 - [JetBrains Suite](https://www.jetbrains.com/) - A suite of integrated development environments (IDEs) for various programming languages. (🆓 Free | 💸 Paid)
 - [Zed](https://zed.dev/) - A fast, lightweight, and powerful text editor for macOS, Windows, and Linux. (🆓 Free | 🐧 Open Source)
+
+## 🔔 Notifications & Build Monitoring
+
+- [GitLight](https://gitlight.app/) - Desktop app for GitHub and GitLab notifications with a Kanban-style interface. (🆓 Free | 🐧 Open Source)
+- [Gitify](https://gitify.io/) - GitHub notifications on your menu bar for macOS, Windows, and Linux. (🆓 Free | 🐧 Open Source)
+- [CatLight](https://catlight.io/) - Action center for developers that monitors CI/CD builds, releases, and issues from Jenkins, Azure DevOps, GitHub, and more. (🌗 Freemium)
+- [Octobud](https://octobud.io/) - Open source Mac desktop app for managing GitHub notifications with advanced filtering, automation rules, and keyboard-first navigation. (🆓 Free | 🐧 Open Source)

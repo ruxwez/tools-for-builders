@@ -2,9 +2,11 @@
 
 ## Purpose
 
-This document defines the exact workflow the AI agent must follow when the user provides one or multiple URLs and/or tool names, so the agent can research them, classify them correctly, and update the repository consistently.
+This document defines the exact workflow the AI agent must follow **when the user explicitly asks to add one or multiple URLs and/or tools** to the repository. The agent must research them, check for duplicates, classify them correctly, and update the repository consistently.
 
 The process is optimized for small models (for example, `gpt-5-mini`): deterministic, checklist-based, low-ambiguity, and with strict output rules.
+
+**When to use this workflow:** Only when the user explicitly requests to add resources (e.g., "añade esta herramienta", "add this tool", "clasiﬁca y guarda esta URL", or passes URLs/tools expecting them to be stored). Do NOT use this workflow for general questions, research, or casual mentions of tools.
 
 ---
 
@@ -70,7 +72,24 @@ Build a local “known taxonomy”:
 
 ---
 
-### Step 3) Research each item independently
+### Step 3) Duplicate check (skip if already exists)
+
+For each item, **before researching**, search all repository topic files for an existing entry that matches:
+
+- Match by canonical URL domain (e.g., `github.com/org/repo`, `toolname.dev`).
+- Match by exact name (case-insensitive).
+
+**Rules:**
+
+- If a match is found → **skip the item entirely**. Do not research, do not add a duplicate.
+- If no match is found → proceed to research (Step 4).
+- Report skipped items in the final summary so the user knows they were detected and ignored.
+
+This prevents duplicate entries and wasted research effort.
+
+---
+
+### Step 4) Research each item independently
 
 For each item (one by one):
 
@@ -88,7 +107,7 @@ If confidence is low, mark item as `needs-review` instead of forcing placement.
 
 ---
 
-### Step 4) Category decision policy
+### Step 5) Category decision policy
 
 Use this order:
 
@@ -104,7 +123,7 @@ When creating a new category:
 
 ---
 
-### Step 5) Tagging policy
+### Step 6) Tagging policy
 
 For every item:
 
@@ -122,7 +141,7 @@ If a necessary tag does not exist:
 
 ---
 
-### Step 6) Write/update entry
+### Step 7) Write/update entry
 
 Use the repository’s established bullet format. Standard target format:
 
@@ -136,7 +155,7 @@ Constraints:
 
 ---
 
-### Step 7) Index synchronization
+### Step 8) Index synchronization
 
 After any category/topic structure change:
 
@@ -147,11 +166,13 @@ No structural change is complete without index update.
 
 ---
 
-### Step 8) Final validation checklist
+### Step 9) Final validation checklist
 
 Before finishing, verify:
 
-- [ ] Every input item was researched.
+- [ ] Every input item was checked for duplicates before research.
+- [ ] Duplicates were skipped and reported to the user.
+- [ ] Every non-duplicate item was researched.
 - [ ] Every item was handled independently.
 - [ ] Classification uses existing categories when possible.
 - [ ] New category created only when required.

@@ -40,5 +40,6 @@
 ## 🖼️ Media & Image Processing
 
 - [Cloudinary](https://cloudinary.com/) - Image and video management in the cloud. (🌗 Freemium | ☁️ SaaS)
+- [Shots](https://shots.so/) - Quick mockups, animated templates and device previews. (🆓 Free | ☁️ SaaS)
+- [Squoosh](https://squoosh.app/) - Image compression and optimization tool that runs locally in the browser. (🆓 Free | 🐧 Open Source)
 - [UploadThing](https://uploadthing.com/) - File uploads for modern web apps. (🌗 Freemium | 🐧 Open Source)
- - [Shots](https://shots.so/) - Quick mockups, animated templates and device previews. (🆓 Free | ☁️ SaaS)

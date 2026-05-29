@@ -61,6 +61,7 @@
 - [MySQL Workbench](https://www.mysql.com/products/workbench/) - A visual tool for managing and developing MySQL databases. (🆓 Free | 💸 Paid)
 - [pgAdmin](https://www.pgadmin.org/) - A powerful and easy-to-use tool for managing PostgreSQL databases. (🆓 Free | 💸 Paid)
 - [MongoDB Compass](https://www.mongodb.com/products/tools/compass) - A powerful and easy-to-use tool for managing MongoDB databases. (🆓 Free | 💸 Paid)
+- [Tiny RDM](https://redis.tinycraft.cc/) - A modern, lightweight, cross-platform Redis desktop manager with a web version deployable via Docker. (🐧 Open Source | 🏠 Self-Hosted)
 
 ## ⌨️ Code Editors & IDEs
 

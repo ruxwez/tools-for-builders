@@ -16,6 +16,7 @@
 - [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python. (🐧 Open Source)
 - [Requests](https://requests.readthedocs.io/) - Simple, yet elegant, HTTP library. (🐧 Open Source)
 - [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper. (🐧 Open Source)
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - An adaptive web scraping framework that handles anti-bot bypass, proxy rotation, and concurrent crawling. (🐧 Open Source)
 
 ## 🐹 Go (Golang)
 

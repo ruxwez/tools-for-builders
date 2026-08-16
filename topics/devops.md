@@ -33,3 +33,7 @@
 
 - [HashiCorp Vault](https://www.vaultproject.io/) - Manage secrets and protect sensitive data. (🐧 Open Source | 🏠 Self-Hosted)
 - [Infisical](https://infisical.com/) - Open source secret management platform. (🐧 Open Source | 🏠 Self-Hosted)
+
+## 🧪 Testing & QA
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available CLI and MCP server for natural-language web and mobile regression tests with run memory; model-provider costs may apply. (🏠 Self-Hosted)

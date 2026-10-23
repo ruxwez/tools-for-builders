@@ -45,6 +45,7 @@
 - [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell. (🐧 Open Source)
 - [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer. (🐧 Open Source)
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator for macOS and Linux that uses platform-native UI and GPU acceleration. (🐧 Open Source)
+- [YYLO CLI](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents (Claude Code, Codex, Gemini CLI) with Kanban-driven tasks, parallel git worktrees, and typed merge flows. (🐧 Open Source)
 
 ## 🔧 Utilities & Launchers
 

@@ -9,6 +9,7 @@
 - [Render](https://render.com/) - Unified cloud to build and run all your apps and websites with free SSL, global CDN, and DDoS protection. (🌗 Freemium | ☁️ SaaS)
 - [Fly.io](https://fly.io/) - Run your full stack apps (and databases) close to your users. (🌗 Freemium | ☁️ SaaS)
 - [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites. (🆓 Free | ☁️ SaaS)
+- [deed.page](https://deed.page/) - Static HTML hosting built for AI agents: publish a page or folder to a permanent public URL with one HTTP request or a remote MCP server, no account needed. (🌗 Freemium | ☁️ SaaS)
 
 ## 🗄️ Database (DBaaS)
 

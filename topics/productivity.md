@@ -32,6 +32,7 @@
 - [Dark Mode Design](https://darkmodedesign.com/) - Inspiration gallery of dark-themed websites. (🆓 Free | ☁️ SaaS)
 - [Httpster](https://httpster.net/) - Curated web design inspiration. (🆓 Free | ☁️ SaaS)
 - [Spline Community](https://spline.design/community) - Free 3D scenes and interactive design resources. (🆓 Free | ☁️ SaaS)
+- [APPLORE](https://applore.app/) - Library of 18,000+ real App Store and Google Play app icons with every past version archived. (🌗 Freemium | ☁️ SaaS)
 
 ## 📷 Picture & Video
 

@@ -53,6 +53,7 @@
 - [Raycast](https://www.raycast.com/) - Blazingly fast, extendable launcher for macOS. (🆓 Free | 💸 Paid AI)
 - [PowerToys](https://github.com/microsoft/PowerToys) - System utilities to tune and streamline the Windows experience. (🐧 Open Source)
 - [Keka](https://www.keka.io/) - The macOS file archiver. (🆓 Free | 💸 App Store)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Native macOS menu bar utility that puts windows back on their assigned monitor and Space on reconnect, with per-port display arrangement switching, DDC brightness/volume control, ambient brightness sync, and Keep Awake. (🆓 Free | 🐧 Open Source)
 
 ## 🛠️ Database Management Tools
 
